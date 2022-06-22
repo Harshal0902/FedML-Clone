@@ -17,3 +17,4 @@ Make a clone of the web site: [FedMl](https://fedml.ai/).
 - Added animations to the web app.
 - Add Headroom to the Navigation bar.
 - Changed and improved resposive design for the navbar.
+- Improved styling for Navbar(removing exta and unncessary padding).
